@@ -1,0 +1,30 @@
+units           real
+atom_style      full
+bond_style      harmonic
+angle_style     charmm
+pair_style	lj/charmm/coul/long 8.0 10.0
+kspace_style	pppm 1.0e-4
+special_bonds   charmm
+neigh_modify    delay 0 every 1 check yes
+
+atom_modify     sort 0 0
+
+read_data       data.nh3
+restart         100 restart1.dat restart2.dat
+
+pair_modify mix geometric
+
+timestep        1.0
+
+dump            1 all xyz 1 dump.xyz
+
+thermo_style    multi
+thermo          1
+
+group           wat molecule 1
+
+fix             1 all ms2ec master atoms.txt shmem qmmm
+fix             2 all shake 0.0001 20 0 b 1 a 1
+fix             3 all nvt temp 300.0 300.0 100.0
+
+run             99

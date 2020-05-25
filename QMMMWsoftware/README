@@ -1,0 +1,30 @@
+
+Installation (ubuntu 18.04 LTS)
+1. set QMMMWsoftware to $HOME
+  e.g., finally,
+  $HOME/QMMMWsoftware
+2. cd $HOME/QMMMWsoftware
+3. chmod +x ./install.sh
+4. ./install.sh
+
+Test
+1. cd $HOME/QMMMWsoftware/tests
+2. ./run_32water_mc.sh
+
+Example
+1. cd $HOME/QMMMWsoftware/examples
+2. cd 32water_mc
+3. ./job.sh
+
+References
+[1] C. Ma et al., Comp. Phys. Comm. 195 (2015) 191-198.
+  QMMMW: A wrapper for QM/MM simulations with Quantum ESPRESSO  and LAMMPS
+  Computer Physics Communications
+  Volume 195, October 2015, Pages 191-198.
+  AEWS_v1_0; QMMMW; 10.1016/j.cpc.2015.04.024
+  https://doi.org/10.1016/j.cpc.2015.04.024
+  http://cpc.cs.qub.ac.uk/summaries/AEWS_v1_0.html
+  https://data.mendeley.com/datasets/3vczb7hhzk/1
+  https://data.mendeley.com/datasets/3vczb7hhzk/1/files/6d347724-d457-4408-827e-6f77e4d1b7b4
+  https://md-datasets-cache-zipfiles-prod.s3.eu-west-1.amazonaws.com/3vczb7hhzk-1.zip
+  

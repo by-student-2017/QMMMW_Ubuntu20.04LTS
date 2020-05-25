@@ -1,0 +1,753 @@
+LAMMPS (30 Oct 2014)
+Reading data file ...
+  orthogonal box = (0 0 0) to (41.16 41.16 41.16)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  12 atoms
+Finding 1-2 1-3 1-4 neighbors ...
+  0 = max # of 1-2 neighbors
+  0 = max # of 1-3 neighbors
+  0 = max # of 1-4 neighbors
+  1 = max # of special neighbors
+MS2 Module: slave role
+PPPM initialization ...
+  G vector (1/distance) = 0.0878085
+  grid = 3 3 3
+  stencil order = 5
+  estimated absolute RMS force accuracy = 0.0308742
+  estimated relative force accuracy = 9.29767e-05
+  using double precision FFTs
+  3d grid and FFT values/proc = 512 27
+MS2 Module: init
+MS2 Module: pre force
+Setting up run ...
+MS2 Module: setup
+MS2 Module: post force
+Memory usage per processor = 0.0872841 Mbytes
+---------------- Step        0 ----- CPU =      0.0000 (sec) ----------------
+TotEng   =    238872.5869 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    238872.5869 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    238894.7600 
+E_coul   =       -18.7934 E_long   =        -3.3798 Press    =    941252.0785 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        1 ----- CPU =      5.7667 (sec) ----------------
+TotEng   =    237074.3783 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    237074.3783 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    237096.5080 
+E_coul   =       -18.7499 E_long   =        -3.3798 Press    =    934174.8235 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        2 ----- CPU =      8.8265 (sec) ----------------
+TotEng   =    232415.8479 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    232415.8479 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    232437.8623 
+E_coul   =       -18.6347 E_long   =        -3.3797 Press    =    915839.9632 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        3 ----- CPU =     12.3153 (sec) ----------------
+TotEng   =    226670.1736 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    226670.1736 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    226692.0411 
+E_coul   =       -18.4878 E_long   =        -3.3797 Press    =    893226.0046 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        4 ----- CPU =     15.8291 (sec) ----------------
+TotEng   =    221729.1071 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    221729.1071 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    221750.8450 
+E_coul   =       -18.3582 E_long   =        -3.3797 Press    =    873778.4339 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        5 ----- CPU =     19.1951 (sec) ----------------
+TotEng   =    218953.3316 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218953.3316 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218974.9988 
+E_coul   =       -18.2876 E_long   =        -3.3797 Press    =    862852.8904 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        6 ----- CPU =     22.7231 (sec) ----------------
+TotEng   =    218975.1828 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218975.1828 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218996.8605 
+E_coul   =       -18.2980 E_long   =        -3.3797 Press    =    862938.3848 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        7 ----- CPU =     26.2549 (sec) ----------------
+TotEng   =    221711.9505 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    221711.9505 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    221733.7165 
+E_coul   =       -18.3862 E_long   =        -3.3797 Press    =    873709.3708 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        8 ----- CPU =     29.7806 (sec) ----------------
+TotEng   =    226362.0938 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    226362.0938 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    226383.9980 
+E_coul   =       -18.5245 E_long   =        -3.3797 Press    =    892010.8884 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step        9 ----- CPU =     33.5298 (sec) ----------------
+TotEng   =    231425.4275 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    231425.4275 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    231447.4754 
+E_coul   =       -18.6682 E_long   =        -3.3798 Press    =    911938.3389 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       10 ----- CPU =     37.4612 (sec) ----------------
+TotEng   =    235005.4701 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    235005.4701 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    235027.6191 
+E_coul   =       -18.7692 E_long   =        -3.3798 Press    =    926027.7365 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       11 ----- CPU =     41.0802 (sec) ----------------
+TotEng   =    235563.8420 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    235563.8420 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    235586.0150 
+E_coul   =       -18.7933 E_long   =        -3.3798 Press    =    928224.7148 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       12 ----- CPU =     44.6067 (sec) ----------------
+TotEng   =    232768.3354 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    232768.3354 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    232790.4486 
+E_coul   =       -18.7334 E_long   =        -3.3798 Press    =    917221.8925 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       13 ----- CPU =     48.2157 (sec) ----------------
+TotEng   =    227704.4609 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    227704.4609 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    227726.4531 
+E_coul   =       -18.6124 E_long   =        -3.3797 Press    =    897291.3348 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       14 ----- CPU =     51.7460 (sec) ----------------
+TotEng   =    222228.7543 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    222228.7543 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    222250.6078 
+E_coul   =       -18.4738 E_long   =        -3.3797 Press    =    875739.6935 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       15 ----- CPU =     55.2777 (sec) ----------------
+TotEng   =    218090.8290 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218090.8290 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218112.5739 
+E_coul   =       -18.3651 E_long   =        -3.3797 Press    =    859453.1452 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       16 ----- CPU =     58.8077 (sec) ----------------
+TotEng   =    216414.1768 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    216414.1768 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    216435.8787 
+E_coul   =       -18.3222 E_long   =        -3.3797 Press    =    852853.8236 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       17 ----- CPU =     62.4192 (sec) ----------------
+TotEng   =    217588.1695 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217588.1695 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217609.9082 
+E_coul   =       -18.3590 E_long   =        -3.3797 Press    =    857474.4062 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       18 ----- CPU =     65.9608 (sec) ----------------
+TotEng   =    221293.9114 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    221293.9114 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    221315.7548 
+E_coul   =       -18.4637 E_long   =        -3.3797 Press    =    872059.6657 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       19 ----- CPU =     69.4999 (sec) ----------------
+TotEng   =    226496.8985 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    226496.8985 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    226518.8804 
+E_coul   =       -18.6022 E_long   =        -3.3797 Press    =    892537.7202 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       20 ----- CPU =     73.2436 (sec) ----------------
+TotEng   =    231531.0479 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    231531.0479 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    231553.1553 
+E_coul   =       -18.7277 E_long   =        -3.3797 Press    =    912351.1004 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       21 ----- CPU =     76.8167 (sec) ----------------
+TotEng   =    234540.9015 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234540.9015 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234563.0769 
+E_coul   =       -18.7958 E_long   =        -3.3797 Press    =    924197.3339 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       22 ----- CPU =     80.3873 (sec) ----------------
+TotEng   =    234315.7565 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234315.7565 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234337.9170 
+E_coul   =       -18.7807 E_long   =        -3.3797 Press    =    923311.6333 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       23 ----- CPU =     83.9399 (sec) ----------------
+TotEng   =    230985.6303 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    230985.6303 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    231007.6963 
+E_coul   =       -18.6863 E_long   =        -3.3797 Press    =    910205.6595 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       24 ----- CPU =     87.5222 (sec) ----------------
+TotEng   =    225944.9198 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    225944.9198 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    225966.8436 
+E_coul   =       -18.5441 E_long   =        -3.3797 Press    =    890367.1128 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       25 ----- CPU =     91.1037 (sec) ----------------
+TotEng   =    221068.6402 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    221068.6402 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    221090.4211 
+E_coul   =       -18.4012 E_long   =        -3.3797 Press    =    871175.4479 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       26 ----- CPU =     94.6964 (sec) ----------------
+TotEng   =    217914.1679 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217914.1679 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217935.8509 
+E_coul   =       -18.3034 E_long   =        -3.3797 Press    =    858760.3177 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       27 ----- CPU =     98.2740 (sec) ----------------
+TotEng   =    217358.8802 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217358.8802 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217380.5406 
+E_coul   =       -18.2807 E_long   =        -3.3797 Press    =    856575.1741 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       28 ----- CPU =    101.8575 (sec) ----------------
+TotEng   =    219567.3629 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    219567.3629 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    219589.0819 
+E_coul   =       -18.3394 E_long   =        -3.3797 Press    =    865267.8667 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       29 ----- CPU =    105.4357 (sec) ----------------
+TotEng   =    224008.2905 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    224008.2905 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    224030.1304 
+E_coul   =       -18.4602 E_long   =        -3.3797 Press    =    882746.9868 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       30 ----- CPU =    109.3432 (sec) ----------------
+TotEng   =    229443.9276 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    229443.9276 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    229465.9109 
+E_coul   =       -18.6035 E_long   =        -3.3797 Press    =    904140.7805 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       31 ----- CPU =    112.9274 (sec) ----------------
+TotEng   =    234088.4946 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234088.4946 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234110.5954 
+E_coul   =       -18.7211 E_long   =        -3.3797 Press    =    922420.7891 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       32 ----- CPU =    116.5043 (sec) ----------------
+TotEng   =    236183.0153 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    236183.0153 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    236205.1669 
+E_coul   =       -18.7718 E_long   =        -3.3797 Press    =    930664.3662 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       33 ----- CPU =    120.0797 (sec) ----------------
+TotEng   =    234874.0381 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234874.0381 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234896.1557 
+E_coul   =       -18.7379 E_long   =        -3.3797 Press    =    925512.7492 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       34 ----- CPU =    123.6530 (sec) ----------------
+TotEng   =    230730.4417 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    230730.4417 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    230752.4530 
+E_coul   =       -18.6316 E_long   =        -3.3797 Press    =    909204.7668 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       35 ----- CPU =    127.2172 (sec) ----------------
+TotEng   =    225405.5823 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    225405.5823 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    225427.4525 
+E_coul   =       -18.4905 E_long   =        -3.3797 Press    =    888247.3299 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       36 ----- CPU =    130.7834 (sec) ----------------
+TotEng   =    220756.2076 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    220756.2076 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    220777.9502 
+E_coul   =       -18.3629 E_long   =        -3.3797 Press    =    869948.1049 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       37 ----- CPU =    134.3448 (sec) ----------------
+TotEng   =    218149.4191 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218149.4191 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218171.0893 
+E_coul   =       -18.2904 E_long   =        -3.3797 Press    =    859687.9429 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       38 ----- CPU =    137.8967 (sec) ----------------
+TotEng   =    218230.8727 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218230.8727 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218252.5485 
+E_coul   =       -18.2961 E_long   =        -3.3797 Press    =    860008.2694 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       39 ----- CPU =    141.4571 (sec) ----------------
+TotEng   =    220933.7072 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    220933.7072 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    220955.4646 
+E_coul   =       -18.3777 E_long   =        -3.3797 Press    =    870645.9368 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       40 ----- CPU =    145.1677 (sec) ----------------
+TotEng   =    225491.5436 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    225491.5436 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    225513.4324 
+E_coul   =       -18.5091 E_long   =        -3.3797 Press    =    888584.4003 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       41 ----- CPU =    148.7416 (sec) ----------------
+TotEng   =    230472.7419 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    230472.7419 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    230494.7687 
+E_coul   =       -18.6470 E_long   =        -3.3798 Press    =    908188.8365 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       42 ----- CPU =    152.3111 (sec) ----------------
+TotEng   =    234059.2294 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234059.2294 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234081.3541 
+E_coul   =       -18.7449 E_long   =        -3.3798 Press    =    922303.8245 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       43 ----- CPU =    155.8695 (sec) ----------------
+TotEng   =    234757.1455 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234757.1455 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234779.2943 
+E_coul   =       -18.7691 E_long   =        -3.3798 Press    =    925050.1751 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       44 ----- CPU =    159.4243 (sec) ----------------
+TotEng   =    232204.6809 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    232204.6809 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    232226.7723 
+E_coul   =       -18.7117 E_long   =        -3.3798 Press    =    915003.9991 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       45 ----- CPU =    162.9814 (sec) ----------------
+TotEng   =    227402.9792 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    227402.9792 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    227424.9533 
+E_coul   =       -18.5944 E_long   =        -3.3797 Press    =    896105.3390 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       46 ----- CPU =    166.5478 (sec) ----------------
+TotEng   =    222131.1048 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    222131.1048 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    222152.9435 
+E_coul   =       -18.4591 E_long   =        -3.3797 Press    =    875355.9510 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       47 ----- CPU =    170.1109 (sec) ----------------
+TotEng   =    218092.1542 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218092.1542 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218113.8861 
+E_coul   =       -18.3523 E_long   =        -3.3797 Press    =    859458.9206 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       48 ----- CPU =    173.6765 (sec) ----------------
+TotEng   =    216392.7211 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    216392.7211 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    216414.4103 
+E_coul   =       -18.3095 E_long   =        -3.3797 Press    =    852769.8598 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       49 ----- CPU =    177.2475 (sec) ----------------
+TotEng   =    217424.8086 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217424.8086 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217446.5332 
+E_coul   =       -18.3449 E_long   =        -3.3797 Press    =    856831.8017 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       50 ----- CPU =    180.9721 (sec) ----------------
+TotEng   =    220895.3051 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    220895.3051 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    220917.1326 
+E_coul   =       -18.4479 E_long   =        -3.3797 Press    =    870491.0135 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       51 ----- CPU =    184.5318 (sec) ----------------
+TotEng   =    225821.5212 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    225821.5212 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    225843.4863 
+E_coul   =       -18.5853 E_long   =        -3.3797 Press    =    889879.5561 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       52 ----- CPU =    188.0971 (sec) ----------------
+TotEng   =    230611.3464 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    230611.3464 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    230633.4376 
+E_coul   =       -18.7115 E_long   =        -3.3798 Press    =    908731.0979 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       53 ----- CPU =    191.6613 (sec) ----------------
+TotEng   =    233475.1360 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233475.1360 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233497.2985 
+E_coul   =       -18.7827 E_long   =        -3.3798 Press    =    920002.1959 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       54 ----- CPU =    195.2366 (sec) ----------------
+TotEng   =    233228.2137 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233228.2137 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233250.3667 
+E_coul   =       -18.7733 E_long   =        -3.3798 Press    =    919030.5128 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       55 ----- CPU =    198.8039 (sec) ----------------
+TotEng   =    229980.1367 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    229980.1367 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    230002.2024 
+E_coul   =       -18.6860 E_long   =        -3.3798 Press    =    906247.2135 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       56 ----- CPU =    202.3729 (sec) ----------------
+TotEng   =    225080.7642 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    225080.7642 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    225102.6953 
+E_coul   =       -18.5514 E_long   =        -3.3797 Press    =    886964.7259 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       57 ----- CPU =    205.9420 (sec) ----------------
+TotEng   =    220358.2473 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    220358.2473 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    220380.0421 
+E_coul   =       -18.4151 E_long   =        -3.3797 Press    =    868378.0535 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       58 ----- CPU =    209.5101 (sec) ----------------
+TotEng   =    217327.7965 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217327.7965 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217349.4983 
+E_coul   =       -18.3221 E_long   =        -3.3797 Press    =    856450.8773 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       59 ----- CPU =    213.0830 (sec) ----------------
+TotEng   =    216829.9774 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    216829.9774 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    216851.6585 
+E_coul   =       -18.3015 E_long   =        -3.3797 Press    =    854491.7539 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       60 ----- CPU =    216.8051 (sec) ----------------
+TotEng   =    218999.2514 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218999.2514 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    219020.9903 
+E_coul   =       -18.3591 E_long   =        -3.3797 Press    =    863029.9721 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       61 ----- CPU =    220.3875 (sec) ----------------
+TotEng   =    223289.6479 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    223289.6479 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    223311.5035 
+E_coul   =       -18.4759 E_long   =        -3.3797 Press    =    879916.4976 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       62 ----- CPU =    223.9611 (sec) ----------------
+TotEng   =    228478.4563 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    228478.4563 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    228500.4490 
+E_coul   =       -18.6130 E_long   =        -3.3797 Press    =    900338.7330 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       63 ----- CPU =    228.1784 (sec) ----------------
+TotEng   =    232828.2699 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    232828.2699 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    232850.3730 
+E_coul   =       -18.7233 E_long   =        -3.3797 Press    =    917458.6109 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       64 ----- CPU =    231.7603 (sec) ----------------
+TotEng   =    234678.4608 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234678.4608 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234700.6087 
+E_coul   =       -18.7682 E_long   =        -3.3797 Press    =    924740.5490 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       65 ----- CPU =    235.9899 (sec) ----------------
+TotEng   =    233267.6648 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233267.6648 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233289.7760 
+E_coul   =       -18.7315 E_long   =        -3.3797 Press    =    919188.1944 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       66 ----- CPU =    239.5785 (sec) ----------------
+TotEng   =    229213.9152 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    229213.9152 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    229235.9213 
+E_coul   =       -18.6264 E_long   =        -3.3797 Press    =    903233.8322 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       67 ----- CPU =    243.9015 (sec) ----------------
+TotEng   =    224146.4282 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    224146.4282 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    224168.2983 
+E_coul   =       -18.4904 E_long   =        -3.3797 Press    =    883289.3924 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       68 ----- CPU =    248.1177 (sec) ----------------
+TotEng   =    219850.6962 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    219850.6962 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    219872.4460 
+E_coul   =       -18.3701 E_long   =        -3.3797 Press    =    866382.1252 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       69 ----- CPU =    251.6838 (sec) ----------------
+TotEng   =    217609.2251 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217609.2251 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217630.9100 
+E_coul   =       -18.3052 E_long   =        -3.3797 Press    =    857559.9362 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       70 ----- CPU =    255.4129 (sec) ----------------
+TotEng   =    217994.9032 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217994.9032 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218016.5993 
+E_coul   =       -18.3165 E_long   =        -3.3797 Press    =    859077.8291 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       71 ----- CPU =    258.9858 (sec) ----------------
+TotEng   =    220894.0244 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    220894.0244 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    220915.8045 
+E_coul   =       -18.4005 E_long   =        -3.3797 Press    =    870488.2555 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       72 ----- CPU =    262.5574 (sec) ----------------
+TotEng   =    225513.9296 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    225513.9296 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    225535.8395 
+E_coul   =       -18.5302 E_long   =        -3.3797 Press    =    888671.2108 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       73 ----- CPU =    266.1349 (sec) ----------------
+TotEng   =    230417.0491 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    230417.0491 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    230439.0916 
+E_coul   =       -18.6627 E_long   =        -3.3797 Press    =    907968.5240 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       74 ----- CPU =    269.7057 (sec) ----------------
+TotEng   =    233807.5073 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233807.5073 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233829.6393 
+E_coul   =       -18.7523 E_long   =        -3.3797 Press    =    921312.1483 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       75 ----- CPU =    273.3613 (sec) ----------------
+TotEng   =    234244.5174 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234244.5174 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234266.6640 
+E_coul   =       -18.7669 E_long   =        -3.3797 Press    =    923031.8060 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       76 ----- CPU =    276.9393 (sec) ----------------
+TotEng   =    231452.6363 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    231452.6363 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    231474.7168 
+E_coul   =       -18.7007 E_long   =        -3.3797 Press    =    912043.5333 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       77 ----- CPU =    280.5115 (sec) ----------------
+TotEng   =    226527.7863 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    226527.7863 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    226549.7434 
+E_coul   =       -18.5773 E_long   =        -3.3797 Press    =    892660.3879 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       78 ----- CPU =    284.0922 (sec) ----------------
+TotEng   =    221310.0064 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    221310.0064 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    221331.8259 
+E_coul   =       -18.4399 E_long   =        -3.3797 Press    =    872124.0957 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       79 ----- CPU =    287.6575 (sec) ----------------
+TotEng   =    217504.2943 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217504.2943 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217526.0091 
+E_coul   =       -18.3351 E_long   =        -3.3797 Press    =    857145.2241 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       80 ----- CPU =    291.3833 (sec) ----------------
+TotEng   =    216165.2236 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    216165.2236 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    216186.9009 
+E_coul   =       -18.2976 E_long   =        -3.3797 Press    =    851874.6417 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       81 ----- CPU =    294.9454 (sec) ----------------
+TotEng   =    217604.7431 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    217604.7431 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217626.4625 
+E_coul   =       -18.3398 E_long   =        -3.3797 Press    =    857540.2936 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       82 ----- CPU =    298.6680 (sec) ----------------
+TotEng   =    221435.3515 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    221435.3515 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    221457.1796 
+E_coul   =       -18.4484 E_long   =        -3.3797 Press    =    872616.9305 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       83 ----- CPU =    302.2381 (sec) ----------------
+TotEng   =    226587.3178 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    226587.3178 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    226609.2860 
+E_coul   =       -18.5885 E_long   =        -3.3797 Press    =    892894.0316 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       84 ----- CPU =    305.8029 (sec) ----------------
+TotEng   =    231400.6696 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    231400.6696 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    231422.7627 
+E_coul   =       -18.7133 E_long   =        -3.3797 Press    =    911838.1991 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       85 ----- CPU =    309.3724 (sec) ----------------
+TotEng   =    234068.7708 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234068.7708 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234090.9297 
+E_coul   =       -18.7792 E_long   =        -3.3797 Press    =    922339.1478 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       86 ----- CPU =    312.9425 (sec) ----------------
+TotEng   =    233469.9638 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233469.9638 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233492.1056 
+E_coul   =       -18.7620 E_long   =        -3.3797 Press    =    919982.5772 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       87 ----- CPU =    316.5071 (sec) ----------------
+TotEng   =    229849.2350 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    229849.2350 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    229871.2820 
+E_coul   =       -18.6673 E_long   =        -3.3797 Press    =    905732.6411 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       88 ----- CPU =    320.0735 (sec) ----------------
+TotEng   =    224693.7312 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    224693.7312 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    224715.6387 
+E_coul   =       -18.5278 E_long   =        -3.3797 Press    =    885442.0734 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       89 ----- CPU =    323.6500 (sec) ----------------
+TotEng   =    219902.6167 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    219902.6167 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    219924.3873 
+E_coul   =       -18.3909 E_long   =        -3.3797 Press    =    866585.3784 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       90 ----- CPU =    327.3862 (sec) ----------------
+TotEng   =    216983.7423 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    216983.7423 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    217005.4232 
+E_coul   =       -18.3012 E_long   =        -3.3797 Press    =    855097.2992 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       91 ----- CPU =    330.9686 (sec) ----------------
+TotEng   =    216716.1147 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    216716.1147 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    216737.7810 
+E_coul   =       -18.2867 E_long   =        -3.3797 Press    =    854044.1293 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       92 ----- CPU =    334.5793 (sec) ----------------
+TotEng   =    219148.9147 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    219148.9147 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    219170.6455 
+E_coul   =       -18.3511 E_long   =        -3.3797 Press    =    863619.5069 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       93 ----- CPU =    338.1502 (sec) ----------------
+TotEng   =    223651.5715 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    223651.5715 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    223673.4246 
+E_coul   =       -18.4734 E_long   =        -3.3797 Press    =    881341.4097 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       94 ----- CPU =    341.7311 (sec) ----------------
+TotEng   =    228936.3538 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    228936.3538 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    228958.3467 
+E_coul   =       -18.6132 E_long   =        -3.3797 Press    =    902141.3085 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       95 ----- CPU =    345.3118 (sec) ----------------
+TotEng   =    233232.8259 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233232.8259 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233254.9288 
+E_coul   =       -18.7232 E_long   =        -3.3797 Press    =    919051.1335 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       96 ----- CPU =    348.8839 (sec) ----------------
+TotEng   =    234870.4683 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    234870.4683 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    234892.6130 
+E_coul   =       -18.7650 E_long   =        -3.3797 Press    =    925496.3810 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       97 ----- CPU =    352.4556 (sec) ----------------
+TotEng   =    233134.2843 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    233134.2843 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    233156.3877 
+E_coul   =       -18.7236 E_long   =        -3.3797 Press    =    918663.2032 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       98 ----- CPU =    356.0155 (sec) ----------------
+TotEng   =    228731.8248 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    228731.8248 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    228753.8191 
+E_coul   =       -18.6146 E_long   =        -3.3797 Press    =    901336.2058 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step       99 ----- CPU =    359.5800 (sec) ----------------
+TotEng   =    223390.4929 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    223390.4929 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    223412.3496 
+E_coul   =       -18.4770 E_long   =        -3.3797 Press    =    880313.7568 
+MS2 Module: pre force
+MS2 Module: post force
+---------------- Step      100 ----- CPU =    363.5674 (sec) ----------------
+TotEng   =    218958.6281 KinEng   =         0.0000 Temp     =         0.0000 
+PotEng   =    218958.6281 E_bond   =         0.0000 E_angle  =         0.0000 
+E_dihed  =         0.0000 E_impro  =         0.0000 E_vdwl   =    218980.3669 
+E_coul   =       -18.3591 E_long   =        -3.3797 Press    =    862870.4742 
+Loop time of 363.567 on 1 procs for 100 steps with 12 atoms
+
+Pair  time (%) = 0.00164342 (0.000452026)
+Bond  time (%) = 0.00019002 (5.22653e-05)
+Kspce time (%) = 0.00371027 (0.00102052)
+Neigh time (%) = 0 (0)
+Comm  time (%) = 0.00011158 (3.06903e-05)
+Outpt time (%) = 0.0029645 (0.000815391)
+Other time (%) = 363.559 (99.9976)
+
+Nlocal:    12 ave 12 max 12 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    66 ave 66 max 66 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 66
+Ave neighs/atom = 5.5
+Ave special neighs/atom = 0
+Neighbor list builds = 0
+Dangerous builds = 0

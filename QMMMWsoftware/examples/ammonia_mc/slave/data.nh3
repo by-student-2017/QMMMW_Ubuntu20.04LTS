@@ -1,0 +1,30 @@
+LAMMPS data file
+
+4 atoms
+0 bonds
+0 angles
+
+2 atom types
+0 bond types
+0 angle types
+
+0.0 15.86 xlo xhi
+0.0 15.86 ylo yhi
+0.0 15.86 zlo zhi
+
+Masses
+
+1 14.0007
+2 1.008
+
+Pair Coeffs
+
+1 0.070 3.5280
+2 0.012 1.5502
+
+Atoms
+
+1 0 1 -1.125 7.93 7.93 7.93
+2 0 2 0.375 7.4133 7.8927 8.82247
+3 0 2 0.375 8.2342 6.9953 7.95914
+4 0 2 0.375 7.12361 8.0884 7.3436

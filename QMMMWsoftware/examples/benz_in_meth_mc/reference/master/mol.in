@@ -1,0 +1,31 @@
+units           real
+atom_style      full
+bond_style      harmonic
+angle_style     harmonic
+dihedral_style	harmonic 
+pair_style      lj/cut/coul/long 10.0
+kspace_style    pppm 1.0e-4
+special_bonds   amber
+neigh_modify    delay 0 every 1 check yes
+
+atom_modify     sort 0 0
+
+read_data       data.mol
+#read_restart    restart1.dat
+restart         10 restart1.dat restart2.dat
+
+pair_modify mix geometric
+
+timestep        1.0
+
+dump            1 all xyz 1 dump.xyz
+
+thermo_style    multi
+thermo          1
+thermo_modify   flush yes
+
+fix             1 all ms2 master atoms.txt shmem qmmm
+fix             2 all shake 0.0001 20 0 b 1 3 a 1 2 3
+fix             3 all nvt temp 300.0 300.0 100.0
+
+run             100
