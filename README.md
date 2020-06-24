@@ -1,10 +1,10 @@
-# QMMMW_Ubuntu20.04LTS
+# QMMMW_Ubuntu18.04LTS
 
 
 -----
 
 
-# Ubuntu 20.04 LTS
+# Ubuntu 18.04 LTS
 
 
 -----
@@ -18,17 +18,20 @@ chmod +x ./install.sh
 
 
 -----
-# test
-
-
-./run_32water_mc
-
-
------
 # examples
 
 
+chmod +x ./job.sh
+
+
 ./job.sh
+
+
+-----
+# test
+
+
+./run_32water_mc.sh
 
 
 -----
