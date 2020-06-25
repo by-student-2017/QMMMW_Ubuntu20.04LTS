@@ -1,10 +1,10 @@
-# QMMMW_Ubuntu18.04LTS
+# QMMMW_Ubuntu20.04LTS
 
 
 -----
 
 
-# Ubuntu 18.04 LTS
+# Ubuntu 20.04 LTS
 
 
 -----
